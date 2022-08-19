@@ -4,7 +4,7 @@
   "description": "clone spaceX",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/elviredev/website-spacex-clone/issues"
   },
-  "homepage": "https://github.com/elviredev/website-spacex-clone",
+  "homepage": "https://elviredev.github.io/website-spacex-clone",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
